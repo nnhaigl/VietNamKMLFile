@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="town" id="town">
+	<SimpleField name="ID_0" type="float"></SimpleField>
+	<SimpleField name="ISO" type="string"></SimpleField>
+	<SimpleField name="NAME_0" type="string"></SimpleField>
+	<SimpleField name="ID_1" type="float"></SimpleField>
+	<SimpleField name="NAME_1" type="string"></SimpleField>
+	<SimpleField name="ID_2" type="float"></SimpleField>
+	<SimpleField name="NAME_2" type="string"></SimpleField>
+	<SimpleField name="HASC_2" type="string"></SimpleField>
+	<SimpleField name="CCN_2" type="float"></SimpleField>
+	<SimpleField name="CCA_2" type="string"></SimpleField>
+	<SimpleField name="TYPE_2" type="string"></SimpleField>
+	<SimpleField name="ENGTYPE_2" type="string"></SimpleField>
+	<SimpleField name="NL_NAME_2" type="string"></SimpleField>
+	<SimpleField name="VARNAME_2" type="string"></SimpleField>
+</Schema>
+<Folder><name>town</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#town">
+		<SimpleData name="ID_0">250</SimpleData>
+		<SimpleData name="ISO">VNM</SimpleData>
+		<SimpleData name="NAME_0">Vietnam</SimpleData>
+		<SimpleData name="ID_1">26</SimpleData>
+		<SimpleData name="NAME_1">Há»“ ChÃ­ Minh city</SimpleData>
+		<SimpleData name="ID_2">268</SimpleData>
+		<SimpleData name="NAME_2">Quáº­n 10</SimpleData>
+		<SimpleData name="HASC_2">VN.HC.QJ</SimpleData>
+		<SimpleData name="CCN_2">0</SimpleData>
+		<SimpleData name="TYPE_2">Quáº­n</SimpleData>
+		<SimpleData name="ENGTYPE_2">Urban District</SimpleData>
+		<SimpleData name="VARNAME_2">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>106.676612854004,10.7803716659547 106.680732727051,10.7782001495361 106.680618286133,10.7778482437136 106.682029724121,10.7756748199464 106.678581237793,10.7727966308593 106.676391601563,10.7707881927491 106.676330566407,10.770727157593 106.675491333008,10.7698335647584 106.675430297852,10.7697534561157 106.674934387207,10.7690153121951 106.674049377442,10.7677478790283 106.67839050293,10.7663698196412 106.68138885498,10.765435218811 106.680908203125,10.765160560608 106.676712036133,10.7627744674683 106.676071166992,10.7623596191406 106.674728393555,10.7614927291872 106.672821044922,10.7610254287721 106.668617248535,10.7599935531616 106.665184020996,10.7593116760257 106.662437438965,10.7587661743166 106.66227722168,10.7587337493897 106.660316467285,10.7583141326904 106.659469604492,10.7614450454714 106.65943145752,10.7615938186646 106.658958435059,10.7635784149169 106.659637451172,10.7639608383182 106.658813476562,10.7667322158813 106.657875061035,10.7705068588259 106.657348632813,10.7719202041626 106.656806945801,10.7743015289307 106.656150817871,10.7764654159548 106.655662536621,10.7782678604127 106.655914306641,10.7782649993896 106.656005859375,10.7782688140871 106.660057067871,10.7825174331666 106.66431427002,10.7869691848756 106.666152954102,10.7859468460083 106.669448852539,10.7841911315918 106.671775817871,10.7829513549805 106.672424316406,10.782606124878 106.676612854004,10.7803716659547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
