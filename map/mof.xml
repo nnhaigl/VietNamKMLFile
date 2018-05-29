@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Root>
+<Report>
+	<Type>BM 12</Type>
+	<Province>Hà Nội</Province>
+	<Content>
+    <Item>
+        <STT>A</STT>
+        <Name>TỔNG THU NGÂN SÁCH NHÀ NƯỚC</Name>
+        <Value>1.319.200</Value>
+    </Item>
+    <Item>
+        <STT>1</STT>
+        <Name>Thu nội địa</Name>
+        <Value>1.099.300</Value>
+    </Item>
+    <Item>
+        <STT>2</STT>
+        <Name>Thu từ dầu thô</Name>
+        <Value>35.900</Value>
+    </Item>
+    <Item>
+        <STT>3</STT>
+        <Name>Thu cân đối từ hoạt động xuất khẩu, nhập khẩu</Name>
+        <Value>179.000</Value>
+    </Item>
+    <Item>
+        <STT>4</STT>
+        <Name>Thu viện trợ
+
+</Name>
+        <Value>5.000</Value>
+    </Item>
+    <Item>
+        <STT>B</STT>
+        <Name>TỔNG CHI NGÂN SÁCH NHÀ NƯỚC
+
+</Name>
+        <Value>1.523.200</Value>
+    </Item>
+    <Item>
+        <STT>1</STT>
+        <Name>Chi đầu tư phát triển
+</Name>
+        <Value>1.523.200</Value>
+    </Item>
+	</Content>
+</Report>
+<Report>
+	<Type>BM 13</Type>
+	<Province>Hà Nội</Province>
+	<Content>
+    <Itemx>
+        <STT>X</STT>
+        <Name2>TEMP</Name2>
+        <Value1>1.319.200</Value1>
+		<x>1</x>
+    </Itemx>
+	<Itemx>
+        <STT>Y</STT>
+        <Name2>ZTEMP</Name2>
+        <Value1>1.2319.200</Value1>
+		<x>1</x>
+    </Itemx>
+	</Content>
+</Report>
+</Root>
